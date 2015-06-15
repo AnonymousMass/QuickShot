@@ -1,0 +1,60 @@
+d:\users\sky-line\documents\visual studio 2010\Projects\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\ResolveAssemblyReference.cache
+d:\users\sky-line\documents\visual studio 2010\Projects\_SCREEN_CAPTURE\_SCREEN_CAPTURE\bin\Debug\_SCREEN_CAPTURE.dll
+d:\users\sky-line\documents\visual studio 2010\Projects\_SCREEN_CAPTURE\_SCREEN_CAPTURE\bin\Debug\_SCREEN_CAPTURE.pdb
+d:\users\sky-line\documents\visual studio 2010\Projects\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.dll
+d:\users\sky-line\documents\visual studio 2010\Projects\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.pdb
+D:\Users\sky-line\Documents\Visual Studio 2010\Projects\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.FrmCapture.resources
+D:\Users\sky-line\Documents\Visual Studio 2010\Projects\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\ResGen.read.1.tlog
+D:\Users\sky-line\Documents\Visual Studio 2010\Projects\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\ResGen.write.1.tlog
+D:\Users\sky-line\Documents\Visual Studio 2010\Projects\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.Properties.Resources.resources
+D:\Users\sky-line\Documents\Visual Studio 2010\Projects\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.ColorBox.resources
+C:\Users\Anonymous\Desktop\_SCREEN_CAPTURE(1)\_SCREEN_CAPTURE\_SCREEN_CAPTURE\bin\Debug\_SCREEN_CAPTURE.dll
+C:\Users\Anonymous\Desktop\_SCREEN_CAPTURE(1)\_SCREEN_CAPTURE\_SCREEN_CAPTURE\bin\Debug\_SCREEN_CAPTURE.pdb
+C:\Users\Anonymous\Desktop\_SCREEN_CAPTURE(1)\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.ColorBox.resources
+C:\Users\Anonymous\Desktop\_SCREEN_CAPTURE(1)\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.FrmCapture.resources
+C:\Users\Anonymous\Desktop\_SCREEN_CAPTURE(1)\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.Properties.Resources.resources
+C:\Users\Anonymous\Desktop\_SCREEN_CAPTURE(1)\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.csproj.GenerateResource.Cache
+C:\Users\Anonymous\Desktop\_SCREEN_CAPTURE(1)\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.dll
+C:\Users\Anonymous\Desktop\_SCREEN_CAPTURE(1)\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.pdb
+G:\大三下\软件工程\大作业\_SCREEN_CAPTURE（这个是C#的那个）\_SCREEN_CAPTURE\_SCREEN_CAPTURE\bin\Debug\_SCREEN_CAPTURE.dll
+G:\大三下\软件工程\大作业\_SCREEN_CAPTURE（这个是C#的那个）\_SCREEN_CAPTURE\_SCREEN_CAPTURE\bin\Debug\_SCREEN_CAPTURE.pdb
+G:\大三下\软件工程\大作业\_SCREEN_CAPTURE（这个是C#的那个）\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.ColorBox.resources
+G:\大三下\软件工程\大作业\_SCREEN_CAPTURE（这个是C#的那个）\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.FrmCapture.resources
+G:\大三下\软件工程\大作业\_SCREEN_CAPTURE（这个是C#的那个）\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.Properties.Resources.resources
+G:\大三下\软件工程\大作业\_SCREEN_CAPTURE（这个是C#的那个）\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.csproj.GenerateResource.Cache
+G:\大三下\软件工程\大作业\_SCREEN_CAPTURE（这个是C#的那个）\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.dll
+G:\大三下\软件工程\大作业\_SCREEN_CAPTURE（这个是C#的那个）\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.pdb
+G:\大三下\软件工程\大作业\_SCREEN_CAPTURE（亚鹏）\_SCREEN_CAPTURE\_SCREEN_CAPTURE\bin\Debug\_SCREEN_CAPTURE.dll
+G:\大三下\软件工程\大作业\_SCREEN_CAPTURE（亚鹏）\_SCREEN_CAPTURE\_SCREEN_CAPTURE\bin\Debug\_SCREEN_CAPTURE.pdb
+G:\大三下\软件工程\大作业\_SCREEN_CAPTURE（亚鹏）\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.csprojResolveAssemblyReference.cache
+G:\大三下\软件工程\大作业\_SCREEN_CAPTURE（亚鹏）\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.ColorBox.resources
+G:\大三下\软件工程\大作业\_SCREEN_CAPTURE（亚鹏）\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.FrmCapture.resources
+G:\大三下\软件工程\大作业\_SCREEN_CAPTURE（亚鹏）\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.Properties.Resources.resources
+G:\大三下\软件工程\大作业\_SCREEN_CAPTURE（亚鹏）\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.csproj.GenerateResource.Cache
+G:\大三下\软件工程\大作业\_SCREEN_CAPTURE（亚鹏）\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.dll
+G:\大三下\软件工程\大作业\_SCREEN_CAPTURE（亚鹏）\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.pdb
+C:\Users\Anonymous\Desktop\_SCREEN_CAPTURE\_SCREEN_CAPTURE\bin\Debug\_SCREEN_CAPTURE.dll
+C:\Users\Anonymous\Desktop\_SCREEN_CAPTURE\_SCREEN_CAPTURE\bin\Debug\_SCREEN_CAPTURE.pdb
+C:\Users\Anonymous\Desktop\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.ColorBox.resources
+C:\Users\Anonymous\Desktop\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.FrmCapture.resources
+C:\Users\Anonymous\Desktop\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.Properties.Resources.resources
+C:\Users\Anonymous\Desktop\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.csproj.GenerateResource.Cache
+C:\Users\Anonymous\Desktop\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.dll
+C:\Users\Anonymous\Desktop\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.pdb
+G:\大三下\软件工程\大作业\alpha版\_SCREEN_CAPTURE\_SCREEN_CAPTURE\bin\Debug\_SCREEN_CAPTURE.dll
+G:\大三下\软件工程\大作业\alpha版\_SCREEN_CAPTURE\_SCREEN_CAPTURE\bin\Debug\_SCREEN_CAPTURE.pdb
+G:\大三下\软件工程\大作业\alpha版\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.ColorBox.resources
+G:\大三下\软件工程\大作业\alpha版\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.FrmCapture.resources
+G:\大三下\软件工程\大作业\alpha版\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.Properties.Resources.resources
+G:\大三下\软件工程\大作业\alpha版\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.csproj.GenerateResource.Cache
+G:\大三下\软件工程\大作业\alpha版\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.dll
+G:\大三下\软件工程\大作业\alpha版\_SCREEN_CAPTURE\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.pdb
+C:\Users\shitong\Desktop\_SCREEN_CAPTURE1\_SCREEN_CAPTURE\bin\Debug\_SCREEN_CAPTURE.dll
+C:\Users\shitong\Desktop\_SCREEN_CAPTURE1\_SCREEN_CAPTURE\bin\Debug\_SCREEN_CAPTURE.pdb
+C:\Users\shitong\Desktop\_SCREEN_CAPTURE1\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.csprojResolveAssemblyReference.cache
+C:\Users\shitong\Desktop\_SCREEN_CAPTURE1\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.ColorBox.resources
+C:\Users\shitong\Desktop\_SCREEN_CAPTURE1\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.FrmCapture.resources
+C:\Users\shitong\Desktop\_SCREEN_CAPTURE1\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.Properties.Resources.resources
+C:\Users\shitong\Desktop\_SCREEN_CAPTURE1\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.csproj.GenerateResource.Cache
+C:\Users\shitong\Desktop\_SCREEN_CAPTURE1\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.dll
+C:\Users\shitong\Desktop\_SCREEN_CAPTURE1\_SCREEN_CAPTURE\obj\Debug\_SCREEN_CAPTURE.pdb

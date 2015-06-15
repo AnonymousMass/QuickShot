@@ -1,0 +1,11 @@
+D:\Users\sky-line\Documents\Visual Studio 2010\Projects\_SCREEN_CAPTURE\DllTest\bin\Release\DllTest.exe
+D:\Users\sky-line\Documents\Visual Studio 2010\Projects\_SCREEN_CAPTURE\DllTest\bin\Release\DllTest.pdb
+D:\Users\sky-line\Documents\Visual Studio 2010\Projects\_SCREEN_CAPTURE\DllTest\bin\Release\_SCREEN_CAPTURE.dll
+D:\Users\sky-line\Documents\Visual Studio 2010\Projects\_SCREEN_CAPTURE\DllTest\bin\Release\_SCREEN_CAPTURE.pdb
+D:\Users\sky-line\Documents\Visual Studio 2010\Projects\_SCREEN_CAPTURE\DllTest\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Users\sky-line\Documents\Visual Studio 2010\Projects\_SCREEN_CAPTURE\DllTest\obj\x86\Release\DllTest.Form1.resources
+D:\Users\sky-line\Documents\Visual Studio 2010\Projects\_SCREEN_CAPTURE\DllTest\obj\x86\Release\DllTest.Properties.Resources.resources
+D:\Users\sky-line\Documents\Visual Studio 2010\Projects\_SCREEN_CAPTURE\DllTest\obj\x86\Release\ResGen.read.1.tlog
+D:\Users\sky-line\Documents\Visual Studio 2010\Projects\_SCREEN_CAPTURE\DllTest\obj\x86\Release\ResGen.write.1.tlog
+D:\Users\sky-line\Documents\Visual Studio 2010\Projects\_SCREEN_CAPTURE\DllTest\obj\x86\Release\DllTest.exe
+D:\Users\sky-line\Documents\Visual Studio 2010\Projects\_SCREEN_CAPTURE\DllTest\obj\x86\Release\DllTest.pdb
